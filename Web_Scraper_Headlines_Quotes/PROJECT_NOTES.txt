@@ -1,0 +1,1 @@
+Implemented an educational web scraper using requests and BeautifulSoup. It extracts quotes with author names from quotes.toscrape.com or book titles from books.toscrape.com. Users can save extracted data as JSON or plain text in an output folder. HTTP and file errors are handled. Libraries used: requests, beautifulsoup4 (bs4), json, datetime, and pathlib.
